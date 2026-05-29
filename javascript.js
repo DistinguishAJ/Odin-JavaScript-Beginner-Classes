@@ -8,32 +8,30 @@ let age = 11;
 console.log(age);
 
 age = 54;
-
 console.log(age);
 
+const pi = 3.14;
+//pi = 10;//
 
-let x = 23;
-let y = 97;
+console.log(pi);
 
-console.log(x + y);
+console.log(23 + 97);
 
-let sum = (4 + 6 + 9) / 77;
-console.log(sum);
+console.log(22 + 53 + 25 + 30 + 94 + 66);
+
+console.log(4 + 6 + 9) / 77;
 
 let a = 10;
+
 console.log(a);
 
-a = 58;
-console.log(a);
+a = 15;
+ console.log(a);
 
 let b = 7 * a;
 console.log(b);
 
+
 const max = 57;
-console.log(max);
-
 const actual = max - 13;
-console.log(actual);
-
 const percentage = actual / max;
-console.log(percentage);
