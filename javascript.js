@@ -35,3 +35,21 @@ console.log(b);
 const max = 57;
 const actual = max - 13;
 const percentage = actual / max;
+
+const string = "The revolution will not be televised.";
+console.log(string);
+
+//const badString1 = This is a test;
+//const badString2 = 'This is a test';
+//const badString3 = This is a test';
+
+const badString = string;
+console.log(badString);
+
+const single = 'single quotes';
+const double = "double quotes";
+const backticks = `backticks`;
+
+console.log(single);
+console.log(double);
+console.log(backticks);
