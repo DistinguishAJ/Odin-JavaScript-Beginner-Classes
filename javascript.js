@@ -53,3 +53,12 @@ const backticks = `backticks`;
 console.log(single);
 console.log(double);
 console.log(backticks);
+
+const name = "Chris";
+const greeting = `hello, ${name}`;
+console.log(greeting);
+
+const one = "Hello, ";
+const two = "How are you?";
+const joined = `${one}${two}`;
+console.log(joined);
